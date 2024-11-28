@@ -1,6 +1,6 @@
 # Downloading Utility For Google Fonts In Hebrew
 
-![alt text](Screenshots/V3/image.png)
+ ![alt text](Images/sloth-wrapped-in-flag.webp)
 
 ## Purpose Statement
 
